@@ -49,7 +49,7 @@
 	* `issue :retab! command`
 * Napisz prosty pokaz slajdów 
 	* Dodatkowe punkty, jeśli nie używasz JS.  
-* Jakich narzędzi używasz do sprawdzenia wydajności swojego koodu?
+* Jakich narzędzi używasz do sprawdzenia wydajności swojego kodu?
 	* JSPerf (http://jsperf.com/)
 	* Dromaeo (http://dromaeo.com/) 
 	* itd.
@@ -67,8 +67,8 @@
 	* Co jest ważne przy projektowaniu i tworzeniu stron wielojęzycznych?
 * Czy możliwe jest używanie składni XHTML w HTML5? 
 * Jak używać języka XML w HTML5? 
-* Jaka jest przydatność atrybutów `data-` 
-* Czy są modele treści w HTML4, a także czy różnią się w HTML5? 
+* Jaka jest przydatność atrybutów `data-`?
+* Czy istnieją modele treści w HTML4, a także czy różnią się w HTML5? 
 * Rozpatrujemy HTML5 jako otwartą platformę internetową. Jakie składniki tworzą HTML5? 
 * Opisz różnice między cookies, sessionStorage i localStorage. 
 
