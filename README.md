@@ -178,7 +178,6 @@ Question: What is the value of foo.length?
 ```javascript
 $(".foo div#bar:eq(0)")
 ```
-* Difference between 'delegate()' and 'live()'?
 
 
 ### CSS-Specific Questions:
